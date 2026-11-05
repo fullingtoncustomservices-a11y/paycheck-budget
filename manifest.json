@@ -1,0 +1,14 @@
+{
+  "name": "Paycheck Budget Tracker",
+  "short_name": "Budget",
+  "description": "Plan every paycheck: safe to spend until payday, bills by due day, spending, savings goals and debts.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f1ea",
+  "theme_color": "#2f6f9f",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
